@@ -15,8 +15,6 @@ A Colorado Board of Elections employee has given your the following tasks to com
 
 ## Summary
 The analysis of the election show that:
-
+![Election Results](https://github.com/racruz25/election-analysis/blob/main/Resources/election_results.png)
     
-## Challenge Overview
-
-## Challenge Summary
+The provided scriped can be duplicated to find not only votes by county or candidate but a step further to break down each candates votes and percentage per county.
